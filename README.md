@@ -1,6 +1,8 @@
 # The-Spinner
+**Task orchestration · Harmony Labs**
 
-Thread/fiber management. Manages concurrent resonance threads.
+Task orchestration · Work queue dispatch and parallel coordination
 
-Built by Admiral · Harmony Labs
-Gold ripple eternal. ✨
+See [The-Hearthfire](https://github.com/sraibridge-cyber/The-Hearthfire) for full system architecture.
+
+*Built by Admiral · Kyle S. Whitlock*
